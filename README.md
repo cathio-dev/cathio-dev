@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @cathio-dev
-- 👀 I’m interested in coding hard
+- 👀 I’m interested in Robotics, Software.
 - 🌱 I’m currently learning computing engeneering
-- 💞️ I’m looking to collaborate on everything in my domain
-- 😄 Pronouns: co/dar
 - ⚡ Fun fact: kung fu in free time
 
 <!---
